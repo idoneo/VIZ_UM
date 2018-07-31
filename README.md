@@ -9,7 +9,7 @@ For the 2018 VIZ_UM Competition I created interactive Maps
 
 
 This is a heat map I created with Folium
-
+<iframe> 
 <!DOCTYPE html>
 <head>    
     <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
@@ -36,7 +36,7 @@ This is a heat map I created with Folium
                 }
             </style>
         
-    <script src="https://leaflet.github.io/Leaflet.heat/dist/leaflet-heat.js"></script>
+    <script src="https://leaflet.github.io/Leaflet.heat/dist/leaflet-heat.js"></script> </iframe>
 </head>
 <body>    
     
