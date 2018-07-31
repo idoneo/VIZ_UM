@@ -36,7 +36,8 @@ This is a heat map I created with Folium
                 }
             </style>
         
-    <script src="https://leaflet.github.io/Leaflet.heat/dist/leaflet-heat.js"></script> </iframe>
+    <script src="https://leaflet.github.io/Leaflet.heat/dist/leaflet-heat.js"></script>
+    </iframe>
 </head>
 <body>    
     
