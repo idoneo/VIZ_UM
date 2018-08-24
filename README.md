@@ -5,6 +5,6 @@ this is a link to the live site
 
 https://idoneo.github.io/VIZ_UM/
 
-For the 2018 VIZ_UM Competition I created interactive Maps
+Working on recreation of our analysis of pedestrian and motor vehicle crashes in Miami-Dade 2011-2018 
 
 
