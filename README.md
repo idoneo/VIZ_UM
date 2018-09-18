@@ -34,4 +34,4 @@ The speed tended to vary depending on the neighborhood. Here we used ArcGIS to c
 
 We compared drivers and pedestrian ages by gender and found more female pedestrians(turquoise plot) aged 60-80 were involved in accidents than female drivers but more male pedestrians (tan plot) 18-20 were involved in accidents. Also male drivers in their 40's (purple plot) had more accidents and female drivers (blue plot) in their 20's had more accidents.
 
-<img src= "/images/compareare_dr_ped.JPG" alt = "ageDrPed"/>
+<img src= "/images/compareage_dr_ped.JPG" alt = "ageDrPed"/>
