@@ -11,6 +11,6 @@ We decided to host our results on Google pages because at the time we did not ha
 
 ## Pedestrian and Motor Vehicle Crashes in Miami-Dade 2011-2018 
 
-![n](../master/images/n.jpeg)
+<img src= "/images/n.jpeg" alt = "n"/>
 
 
