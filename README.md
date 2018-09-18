@@ -8,7 +8,7 @@ Here is a link to the google pages site where we hosted the results of our analy
 
 
 
-[UM_VIZ SITE](https://sites.google.com/view/umvizcompetition2018/home
+[UM_VIZ SITE](https://sites.google.com/view/umvizcompetition2018/home)
 
 
 
