@@ -8,6 +8,6 @@ We decided to host our results on Google pages because at the time we dod not ha
 [UM_VIZ SITE](https://sites.google.com/view/umvizcompetition2018/home)
 
 
-## Pedestrian and motor vehicle crashes in Miami-Dade 2011-2018 
+                  ## Pedestrian and Motor Vehicle Crashes in Miami-Dade 2011-2018 
 
 
