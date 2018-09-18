@@ -14,7 +14,7 @@ _______
 
 <img src= "/images/m.png" alt = "m"/>
 
-![countplot][m]
-[m]: https://github.com/idoneo/VIZ_UM/images/m.png "countplot"
+
+![Countplot](https://github.com/idoneo/VIZ_UM/images/m.png "countplot")
 
 
