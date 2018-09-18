@@ -22,4 +22,4 @@ The average speed was higher from 3AM to 6AM
 
 Males tended towards higher speeds. Seaborn violin plot.
 
-<img src= "/images/spdbygender.JPG" alt = "spdgender"/>
+<img src= "/images/spedbygender.JPG" alt = "spdgender"/>
