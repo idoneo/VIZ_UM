@@ -23,3 +23,7 @@ The average speed was higher from 3AM to 6AM
 Males tended towards higher speeds. Seaborn violin plot.
 
 <img src= "/images/spedbygender.JPG" alt = "spdgender"/>
+
+We used ArcGIS near function to calculate the number of accidents within 20 meters of an intersection, then exported these results as an excel sheet and plotted them with seaborn. 
+
+<img src= "/images/morethan10violet.JPG" alt = "intersections"/>
