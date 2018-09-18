@@ -13,4 +13,6 @@ We decided to host our results on Google pages because at the time we did not ha
 
 <img src= "/images/m.png" alt = "m"/>
 
+![m](https://github.com/idoneo/VIZ_UM/images/m.png "m")
+
 
