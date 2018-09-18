@@ -27,3 +27,9 @@ Males tended towards higher speeds. Seaborn violin plot.
 We used ArcGIS near function to calculate the number of accidents within 20 meters of an intersection, then exported these results as an excel sheet and plotted them with seaborn. 
 
 <img src= "/images/morethan10violet.JPG" alt = "intersections"/>
+
+The speed tended to vary depending on the neighborhood. Here we used ArcGIS to create a neghborhood category by using the spatial join tool, then we created a dot plot of speeds by neigborhood.
+
+<img src= "/images/suri'scrashes.JPG" alt = "spdneighborhood"/>
+
+
