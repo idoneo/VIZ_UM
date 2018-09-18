@@ -12,9 +12,9 @@ _______
 
 ## Pedestrian and Motor Vehicle Crashes in Miami-Dade 2011-2018 
 
-<img src= "/images/m.png" alt = "m"/>
+<img src= "/images/m .png" alt = "m"/>
 
 
-![Countplot](https://github.com/idoneo/VIZ_UM/images/m.png "countplot")
+![Countplot](https://github.com/idoneo/VIZ_UM/images/m .png "countplot")
 
 
