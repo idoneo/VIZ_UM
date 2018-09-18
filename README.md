@@ -12,9 +12,11 @@ _______
 
 ## Pedestrian and Motor Vehicle Crashes in Miami-Dade 2011-2018 
 
+We found that the average speed for the accidents in this dataset was higher on Sundays. This is a countplot with error bars in Seaborn.
+
 <img src= "/images/m .png" alt = "m"/>
 
 
-![Countplot](https://github.com/idoneo/VIZ_UM/images/m .png "countplot")
+
 
 
