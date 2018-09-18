@@ -16,7 +16,9 @@ We found that the average speed for the accidents in this dataset was higher on 
 
 <img src= "/images/m .png" alt = "m"/>
 
+The average speed was higher from 3AM to 6AM
 
+<img src= "/images/n.png" alt = "n"/>
 
 
 
