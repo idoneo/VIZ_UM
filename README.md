@@ -20,5 +20,6 @@ The average speed was higher from 3AM to 6AM
 
 <img src= "/images/n.JPG" alt = "n"/>
 
+Males tended towards higher speeds. Seaborn violin plot.
 
-
+<img src= "/images/spdbygender.JPG" alt = "spdgender"/>
