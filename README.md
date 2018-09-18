@@ -7,6 +7,7 @@ This is a link to the [GIT live site](https://idoneo.github.io/VIZ_UM/).
 We decided to host our results on Google pages because at the time we did not have GIT hub up and running. Here is the Google pages site:  
 [Google UM_VIZ SITE](https://sites.google.com/view/umvizcompetition2018/home)
 
+_______
 # RESULTS
 
 ## Pedestrian and Motor Vehicle Crashes in Miami-Dade 2011-2018 
