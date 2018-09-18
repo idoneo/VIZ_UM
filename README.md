@@ -18,7 +18,7 @@ We found that the average speed for the accidents in this dataset was higher on 
 
 The average speed was higher from 3AM to 6AM
 
-<img src= "/images/n.jpeg" alt = "n"/>
+<img src= "/images/n.JPG" alt = "n"/>
 
 
 
